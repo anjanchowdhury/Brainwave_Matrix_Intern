@@ -1,2 +1,4 @@
 # Brainwave_Matrix_Intern
-Fake news detection using machine learning
+# AI/ML Intern
+Task1:  Fake News Detection using Machine Learning
+Task2: Credit Card Fraud Detection
